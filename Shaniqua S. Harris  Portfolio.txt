@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../style/master.css">
+  <title>Shaniqua S. Harris's Portfolio - Tables</title>
+</head>
+<body>
+
+  <!-- You can add your content here -->
+  <h1>Shaniqua S. Harris's Portfolio</h1>
+  <p>Welcome to the tables section of my portfolio.</p>
+
+</body>
+</html>

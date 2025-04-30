@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: red;
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.sectionHeader {
+  font-size: 1.5em;
+  color: red;
+  font-style: italic;
+  font-variant: small-caps;
+  margin-top: 30px;
+  border-bottom: 2px solid red;
+  padding-bottom: 5px;
+  text-decoration: underline;
+}
+
+table {
+  margin: 14px auto;
+  border-collapse: separate;
+  border-spacing: 7px;
+  padding: 7px;
+  width: 98%;
+}
+
+caption {
+  font-style: italic;
+  color: red;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+
+th {
+  font-style: italic;
+  font-variant: small-caps;
+  color: black;
+  background-color: white;
+  padding: 10px;
+}
+
+td {
+  border: 1px solid red;
+  vertical-align: top;
+  padding: 7px;
+  color: black;
+  background-color: white;
+}
+
+#skillslist {
+  columns: 3;
+  column-gap: 40px;
+}
+
+a {
+  color: #ff9999;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+hr {
+  margin: 40px 0;
+  border-color: red;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 0.9em;
+  color: gray;
+}
